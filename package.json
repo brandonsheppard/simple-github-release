@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/brandonsheppard/simple-github-release#readme",
   "devDependencies": {
-    "@octokit/rest": "^15.2.0"
+    "@octokit/rest": "^16.15.0"
   }
 }
